@@ -1,0 +1,56 @@
+[
+  {
+    "location": {
+      "id": 1,
+      "name": "Canada"
+    },
+    "id": "c8dc32d8-4262-4210-8029-b2bf1988de73",
+    "name": "Smart Door Lock",
+    "slug": "django"
+  },
+  {
+    "location": {
+      "id": 2,
+      "name": "USA"
+    },
+    "id": "5605ed76-b417-4dee-92c4-dcf3c99eb7bb",
+    "name": "Smart Smoke Detector",
+    "slug": "python"
+  },
+  {
+    "location": {
+      "id": 3,
+      "name": "Syria"
+    },
+    "id": "811d8060-2c27-4ae0-8b55-1812b5224473",
+    "name": "Smart Security Camera",
+    "slug": "macos"
+  },
+  {
+    "location": {
+      "id": 2,
+      "name": "USA"
+    },
+    "id": "c49c4794-fe4c-472a-9ebd-995f81e8b4c5",
+    "name": "Smart Thermostat",
+    "slug": "smart-thermostat"
+  },
+  {
+    "location": {
+      "id": 4,
+      "name": "UAE"
+    },
+    "id": "11b40e15-0348-49f4-bebe-beb33b5104c3",
+    "name": "Smart Refrigerator",
+    "slug": "smart-refrigerator"
+  },
+  {
+    "location": {
+      "id": 1,
+      "name": "Canada"
+    },
+    "id": "a23ee17b-851d-4719-b69f-5e73202f4396",
+    "name": "Smart Washer",
+    "slug": "smart-washer"
+  }
+]

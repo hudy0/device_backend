@@ -1,0 +1,5 @@
+### GET request to devices
+GET http://127.0.0.1:8000/api/devices/
+
+### GET request to locations
+GET http://127.0.0.1:8000/api/locations/
